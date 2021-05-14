@@ -54,6 +54,6 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Диплом. Митина"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Кривые Безье"))
         self.pushButton.setText(_translate("MainWindow", "Добавить кривую"))
         self.pushButton_2.setText(_translate("MainWindow", "Удалить кривую"))
