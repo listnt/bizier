@@ -1,4 +1,4 @@
 # bizier
 PyQT implementation of bizier curve
-#Launch
+# Launch
 python main.py
